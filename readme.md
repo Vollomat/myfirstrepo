@@ -1,2 +1,2 @@
-Vollomat./Vollomat.md
-[Contributer](./contributer.md)
+### Erwatungen an das Studium
+*Mathe bestehen
