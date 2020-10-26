@@ -1,2 +1,2 @@
-###Erwartungen an das Studium
-*Studium bestehen
+### Erwartungen an das Studium
+* Mathe bestehen
